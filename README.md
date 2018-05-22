@@ -9,3 +9,5 @@
 - Combine Title and the content in one column and then predict
 
 - Use Title and content separately and then predict. This method obviously will give better accuracy. 
+
+Check out the solution here: https://github.com/arkahome/REAL_FAKE_NEWS_CLASSIFICATION/blob/master/Real_fake_classification.ipynb
